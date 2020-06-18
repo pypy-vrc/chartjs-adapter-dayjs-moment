@@ -1,0 +1,24 @@
+{
+  "name": "chartjs-adapter-dayjs-moment",
+  "version": "0.0.1",
+  "description": "Chart.js adapter to use Day.js or Moment.js for time functionalities",
+  "main": "chartjs-adapter-dayjs-moment.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pypy-vrc/chartjs-adapter-dayjs-moment.git"
+  },
+  "keywords": [
+    "chart.js",
+    "chartjs",
+    "date",
+    "moment",
+    "day.js",
+    "dayjs",
+    "time"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pypy-vrc/chartjs-adapter-dayjs-moment/issues"
+  },
+  "homepage": "https://github.com/pypy-vrc/chartjs-adapter-dayjs-moment#readme"
+}
